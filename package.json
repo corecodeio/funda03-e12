@@ -1,0 +1,17 @@
+{
+  "name": "funda03-e10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "typescript": "^4.8.2",
+    "uuid": "^8.3.2"
+  }
+}
